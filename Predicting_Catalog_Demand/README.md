@@ -1,0 +1,2 @@
+# Predicting Catalog Demand
+A company that manufactures and sells high-end home goods. Last year the company sent out its first print catalog, and is preparing to send out this year's catalog in the coming months. The company has 250 new customers from their mailing list that they want to send the catalog, and to determine how much profit the company can expect from sending a catalog to these customers. 
