@@ -1,3 +1,3 @@
-# Predicting Catalog Demand
-A company that manufactures and sells high-end home goods. Last year the company sent out its first print catalog, and is preparing to send out this year's catalog in the coming months. The company has 250 new customers from their mailing list that they want to send the catalog, and to determine how much profit the company can expect from sending a catalog to these customers. 
+# Predicting Diamond Prices
+A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, you will use the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
 
