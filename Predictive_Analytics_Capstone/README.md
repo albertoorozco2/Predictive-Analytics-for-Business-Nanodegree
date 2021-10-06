@@ -1,4 +1,4 @@
-#Capstone Project 
+# Capstone Project 
 Task 1: Store Format for Existing Stores
 Task 1: Determining Store Format
 Task 2: Store Format for New Stores
